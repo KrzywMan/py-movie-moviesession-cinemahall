@@ -1,4 +1,4 @@
-from db.models import CinemaHall  # Zmieniony import
+from db.models import CinemaHall
 from django.db.models import QuerySet
 
 
